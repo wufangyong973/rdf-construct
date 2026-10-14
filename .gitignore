@@ -189,7 +189,6 @@ cython_debug/
 #  that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
 #  and can be added to the global gitignore or merged into this file. However, if you prefer,
 #  you could uncomment the following to ignore the entire vscode folder
-# .vscode/
 
 # Ruff stuff:
 .ruff_cache/
@@ -220,3 +219,6 @@ project-structure*.txt
 # directory before #128; `ordered/` is the one a bare `order` run produces now.
 src/ontology/
 /ordered/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
